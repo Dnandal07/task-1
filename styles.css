@@ -1,0 +1,69 @@
+body{
+    background-color: grey;
+}
+
+.heading{
+    background-color: palevioletred;
+    width: 100%;
+}
+
+.heading h1{
+    padding: 20px 30px 20px 50px;
+}
+
+.heading div{
+    display: inline-block;
+}
+.search{
+    display: inline-block;
+    padding-left: 700px;
+}
+
+.content div{
+    display: inline-block;
+}
+
+.leftcontainer{
+    width: 70%;
+    background-color: white;
+    margin-top: 10px;
+    height: 700px;
+}
+
+.leftcontainer p{
+    line-height: 1.5;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.rightcontainer{
+    width: 29%;
+    background-color: palevioletred;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 700px;
+}
+
+.rightcontainer a{
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.content div h1{
+    text-align: center;
+}
+
+.rightcontainer a{
+    padding-left: 20px;
+}
+
+.footer{
+    background-color: white;
+    width: 100%;
+    height: 110px;
+    margin-top: 10px;
+}
+
+.footer p{
+    padding: 45px 10px;
+}
